@@ -4,7 +4,7 @@
   <name>rosbot</name>
   <version>1.0.0</version>
   <description>My ROS Project</description>
-  <maintainer email="arya.peer@gmail.com">Arya Peer/maintainer>
+  <maintainer email="arya.peer@gmail.com">Arya Peer</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>

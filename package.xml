@@ -5,6 +5,7 @@
   <version>1.0.1</version>
   <description>My ROS Project</description>
   <maintainer email="arya.peer@gmail.com">Arya Peer</maintainer>
+  <license>N/A</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 

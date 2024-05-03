@@ -1,7 +1,4 @@
 # ROSBOT
-An ROS2 bot designed as a sideproject.
 
-source ~/dev_ws/install/local_setup.bash
-
-rviz2 -d src/rosbot/config/view_bot. <- need to be in dev_ws>
+A ROS2 bot that can use SLAM (NAV2, AMCL or Slam_Toolbox (based on LIDAR)) to navigate around obstacles and can use a camera to track or move towards an object.
 
